@@ -1,1 +1,1 @@
-"# yahoo_scraper" 
+Yahoo news article Web Scraper . It performs a complete web scrape based on the category you choose. Saves all data from articles into a csv file. Uses BeautifulSoup and Selenium. Handles even lazy loading.
